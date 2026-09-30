@@ -1,0 +1,14 @@
+# R
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rcheck/
+*.Rout
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+~$*.xlsx
+.vscode/
+.idea/
